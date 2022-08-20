@@ -1,0 +1,127 @@
+<html>
+    <head>
+    <link rel="stylesheet" href="style.css">
+        <title>CV Genesis Montes</title>
+    </head>
+    <style> h1 {
+color: aquamarine;
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+address{
+    text-align: center;
+    font-style: italic;
+}
+
+body {
+    background-color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;}
+
+h2 {
+    color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+</style>
+
+    <body>
+        <h1><b> Genesis Oneil Montes Cartaya </b></h1>
+<address> genemonts@gmail.com | +584241486648 | Venezuela</address>
+
+
+<p  align="center">Organizada, didáctica y proactiva, siempre con ganas de aprender y avanzar. 
+El conocimiento y la práctica son el comienzo de todo.</p>
+
+<br>
+
+<h2>ESTUDIOS:</h2>
+
+<table border="2" cellspacing="3" cellpadding="3" >
+<tr>
+    <th>Titulo</th>
+    <th>Institucion</th>
+    <th>Año</th>
+    <th>Estado</th>
+</tr
+
+<tr>
+    <td>Ingenieria de Sistemas</td>
+    <td>UNEFA</td>
+    <td>2017</td>
+    <td>Graduado</td>
+    
+</tr>
+
+<tr>
+    <td>CCNA</td>
+    <td>Muelles de alejandria</td>
+    <td>2018</td>
+    <td>Graduado</td>
+    
+</tr>
+
+<tr>
+    <td>Diplomado en Seguridad Informatica</td>
+    <td>Edutin</td>
+    <td>2022</td>
+    <td>Graduado</td>
+    
+</tr>
+</table>
+
+<h2>EXPERIENCIA LABORAL:</h2>
+
+ <p> Profesional independiente en IT <br>
+ene. de 2021 – actualidad / 1 año 7 meses <br>
+Servicios de consultoría en redes, soporte técnico, respaldo de data, infraestructura y servidores.
+</p>
+<br>
+
+<p> Técnico de Campo IT <br>
+Check In 18 <br>
+ene. de 2019 - mar. de 2022 / 3 años 3 meses<br>
+Vargas, Venezuela
+</p>
+<br>
+
+
+<h2>APTITUDES:</h2>
+    
+<ul>
+  <li>Organizada</li>
+  <li>De fácil adaptación</li>
+  <li>Buena trabajando en equipo</li>
+  <li>Proactiva</li>
+  <li>Buena redacción y ortografía</li>
+  <li>Excelente capacidad analítica</li>
+  <li>Microsoft office y G-Suites</li>
+  
+</ul>
+
+<h2>CURSOS REALIZADOS:</h2>
+
+ <p> Information Systems Auditing, Controls and Assurance <br>
+Coursera <br>
+Expedición: abr. de 2022 <br>
+ID de la credencial UXFHB4A9Z6FA <br>
+
+</p>
+<br>
+
+<p> Crash Course on Python <br>
+Coursera <br>
+Expedición: may. de 2022 <br>
+ID de la credencial GU28KVKDWN68 <br>
+
+</p>
+<br>
+
+<a href="https://www.linkedin.com/in/g%C3%A9nesis-oneil-montes-cartaya-a16430157/">
+    <button>Ir a Linkedin</button>
+</a>
+        <script src="funciones.js"></script>
+    </body>
+
+</html>
